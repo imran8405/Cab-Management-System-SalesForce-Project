@@ -6,25 +6,6 @@ This project was developed with the mindset of "Using SalesForce without letting
 We wanted to create a website where users can book a cab, get the cab assigned and then get the bills on their registered E-Mail IDs.All this on SalesForce platform, but the user won't see anything related to SalesForce. They should simply see the website, do their work and be done with it. That's it.
 
 
-#The Team
-
-Team had 6 members, and here are their names :
-
-1.) [Dhruv Kanojia](https://github.com/Xonshiz)
-
-2.) [Hinshu Jain](https://github.com/CrackedLearner)
-
-3.) [Ankit Passi](https://github.com/ankitpassi141)
-
-4.) [Devesh Shyngle](https://github.com/deveshyngle)
-
-5.) [Raghav Sharma](https://github.com/dkrsharma73)
-
-6.)  Rasil Banga
-
-We're all in our 3rd year of college and are pursuing "C.S.E" from Northern India Engineering College (N.I.E.C).
-Not sure why, but we decided to go with the name "Cab Job" as our project name. Maybe because of some dirty reference lol.
-
 #Limitations
 
 1.) There's no `Driver` access currently.
